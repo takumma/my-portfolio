@@ -12,11 +12,6 @@
   <a href="https://twitter.com/_takumma">Twitter</a> | 
   <a href="https://www.wantedly.com/id/takumma">Wantedly</a>
   
-  
-  <br/>
-  
-  <img src="https://img.shields.io/twitter/follow/tak_kum_ma?style=social" href="https://twitter.com/_takumma"/>
-  
   <br/>
   
   <img src="https://raw.githubusercontent.com/takumma/profile-summary-cards/main/profile-summary-card-output/vue/0-profile-details.svg" />
