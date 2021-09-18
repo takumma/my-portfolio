@@ -30,9 +30,7 @@
             "name": "INTERESTs",
             "values": [
                 "Rock Music",
-                "Vue.js",
-                "Flutter",
-                "Security"
+                "Frontend Development"
             ]
         }
     ],
@@ -242,6 +240,32 @@
                 }
             ],
             "memo": "個人ブログ"
+        },
+        {
+            "name": "Notion Advent Calendar Action",
+            "techs": [
+                {
+                    "name": "JavaScript",
+                    "icon": "mdi-language-javascript"
+                },
+                {
+                    "name": "Github",
+                    "icon": "mdi-github"
+                }
+            ],
+            "links": [
+                {
+                    "name": "Repo",
+                    "icon": "mdi-github",
+                    "url": "https://github.com/takumma/notion-advent-calendar-action"
+                },
+                {
+                    "name": "Article",
+                    "icon": "file-document-outline",
+                    "url": "https://zenn.dev/takumma/articles/notion-advent-calendar"
+                }
+            ],
+            "memo": "GitHubで管理されているブログなどでのアドベントカレンダーをNotionでできるGitHub Axtions"
         }
     ],
     "skills": [
@@ -348,7 +372,7 @@
         {
             "icon": "mdi-twitter",
             "color": "#1DA1F2",
-            "url": "https://twitter.com/tak_kum_ma"
+            "url": "https://twitter.com/_takumma"
         },
         {
             "icon": "icon-qiita",
